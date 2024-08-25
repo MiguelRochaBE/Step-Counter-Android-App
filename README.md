@@ -15,9 +15,9 @@ Step Counter mobile app
 
 **User Cases Diagram:**
 
-![use_case drawio](https://github.com/user-attachments/assets/98814a99-1555-4bd3-98af-7d1679e7f97d)
-
+<img src="https://github.com/user-attachments/assets/98814a99-1555-4bd3-98af-7d1679e7f97d" width="558" height="455">
 
 **Activity Diagram:**
 
-![act_diagram](https://github.com/user-attachments/assets/c0ed8218-4358-4fca-bec4-caa49a9a9004)
+<img src="https://github.com/user-attachments/assets/c0ed8218-4358-4fca-bec4-caa49a9a9004" width="679" height="245">
+
